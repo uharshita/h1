@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    border margin: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span 
+{
+    color: #ff7700;
+}
